@@ -1,4 +1,4 @@
-# team2-underdog-triptailor
+# triptailor
 <!-- # <img src="" width="50" height="50" align='center'/> 관심사 기반 여행 추천 서비스 TripTailor -->
 <div align=center>
 
