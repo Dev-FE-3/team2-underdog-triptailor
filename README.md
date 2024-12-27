@@ -177,7 +177,7 @@
 프로젝트 저장소를 다음 설명에 따라 개발자 컴퓨터에 복사하고 설치 명령을 입력하여 설치를 할 수 있습니다.
 
 ```bash
-git clone https://github.com/ibare/devcamp-onboarding-template.git my-project
+git clone https://github.com/Dev-FE-3/team2-underdog-triptailor my-project
 
 cd my-project
 
