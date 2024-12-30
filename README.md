@@ -2,13 +2,12 @@
 <!-- # <img src="" width="50" height="50" align='center'/> 관심사 기반 여행 추천 서비스 TripTailor -->
 <div align=center>
 
-<!-- ![Thumbnail]()
-![메인페이지]() -->
+![Thumbnail](https://github.com/user-attachments/assets/25304ed0-730d-40f5-9519-c933a673b100)
 
 ## 👋 Team 👋
 |[<img src="https://avatars.githubusercontent.com/u/88638457?v=4" width="150" height="150"/>](https://github.com/jungu0416)|[<img src="https://avatars.githubusercontent.com/u/39721166?v=4" width="150" height="150"/>](https://github.com/chjjh0)|[<img src="https://avatars.githubusercontent.com/u/148299246?v=4" width="150" height="150"/>](https://github.com/j0n0m2)|[<img src="https://avatars.githubusercontent.com/u/103546376?v=4" width="150" height="150"/>](https://github.com/jiwonnayoung)|[<img src="https://avatars.githubusercontent.com/u/180731689?v=4" width="150" height="150"/>](https://github.com/qzeeee1)|
 |:-:|:-:|:-:|:-:|:-:|
-|**총괄** 강준구<br/>[@jungu0416](https://github.com/jungu0416)| 최정훈<br/>[@chjjh0](https://github.com/chjjh0)| 조유나 <br/>[@j0n0m2](https://github.com/j0n0m2)| 이지원<br/>[@jiwonnayoung](https://github.com/jiwonnayoung)| 이혜림<br/>[@qzeeee1](https://github.com/qzeeee1)|
+|강준구<br/>[@jungu0416](https://github.com/jungu0416)| 최정훈<br/>[@chjjh0](https://github.com/chjjh0)| 조유나 <br/>[@j0n0m2](https://github.com/j0n0m2)| 이지원<br/>[@jiwonnayoung](https://github.com/jiwonnayoung)| 이혜림<br/>[@qzeeee1](https://github.com/qzeeee1)|
 
 <br/>
 </div>
@@ -60,6 +59,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Pigma](https://img.shields.io/badge/pigma-%23FF4785.svg?style=for-the-badge&logo=pigma&logoColor=white)
+
 </div>
 
 ## 📄프로젝트 구조
