@@ -126,7 +126,7 @@
 
 | 사용자 등록 |
 |----------|
-<!-- |![start page]()| -->
+![트립테일러_여행정보등록](https://github.com/user-attachments/assets/156cdede-c904-477c-b725-b4c24462175e)
 
 <br>
 
@@ -148,7 +148,7 @@
 
 | 여행 계획 |
 |----------|
-<!-- |![travle plan page]()| -->
+![트립테일러_여행일정생성](https://github.com/user-attachments/assets/d4c9639c-952e-4b7c-ba82-261187f97d9d)
 
 <br>
 
@@ -169,7 +169,7 @@
 
 | 커뮤니티 |
 |----------|
-<!-- |![community page]()| -->
+![트립테일러_커뮤니티](https://github.com/user-attachments/assets/bc96d3c5-31fb-4c86-b252-6d8503d95513)
 
 ---
 ## 🛠 시작하기
