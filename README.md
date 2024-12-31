@@ -1,14 +1,13 @@
-# triptailor
-<!-- # <img src="" width="50" height="50" align='center'/> 관심사 기반 여행 추천 서비스 TripTailor -->
+# 관심사 기반 여행 추천 서비스 TripTailor
 <div align=center>
 
-<!-- ![Thumbnail]()
-![메인페이지]() -->
+![Thumbnail](https://github.com/user-attachments/assets/25304ed0-730d-40f5-9519-c933a673b100)
+![Thumbnail](https://github.com/user-attachments/assets/fe0a0f43-47bf-4419-a043-e5e4dc1582c8)
 
 ## 👋 Team 👋
 |[<img src="https://avatars.githubusercontent.com/u/88638457?v=4" width="150" height="150"/>](https://github.com/jungu0416)|[<img src="https://avatars.githubusercontent.com/u/39721166?v=4" width="150" height="150"/>](https://github.com/chjjh0)|[<img src="https://avatars.githubusercontent.com/u/148299246?v=4" width="150" height="150"/>](https://github.com/j0n0m2)|[<img src="https://avatars.githubusercontent.com/u/103546376?v=4" width="150" height="150"/>](https://github.com/jiwonnayoung)|[<img src="https://avatars.githubusercontent.com/u/180731689?v=4" width="150" height="150"/>](https://github.com/qzeeee1)|
 |:-:|:-:|:-:|:-:|:-:|
-|**총괄** 강준구<br/>[@jungu0416](https://github.com/jungu0416)| 최정훈<br/>[@chjjh0](https://github.com/chjjh0)| 조유나 <br/>[@j0n0m2](https://github.com/j0n0m2)| 이지원<br/>[@jiwonnayoung](https://github.com/jiwonnayoung)| 이혜림<br/>[@qzeeee1](https://github.com/qzeeee1)|
+|강준구<br/>[@jungu0416](https://github.com/jungu0416)| 최정훈<br/>[@chjjh0](https://github.com/chjjh0)| 조유나 <br/>[@j0n0m2](https://github.com/j0n0m2)| 이지원<br/>[@jiwonnayoung](https://github.com/jiwonnayoung)| 이혜림<br/>[@qzeeee1](https://github.com/qzeeee1)|
 
 <br/>
 </div>
@@ -60,6 +59,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23FF4785.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
 </div>
 
 ## 📄프로젝트 구조
@@ -123,8 +125,9 @@
 - 계정을 삭제하면 모든 개인 정보와 여행 기록이 삭제됩니다.
 
 | 사용자 등록 |
-|----------|
-<!-- |![start page]()| -->
+|-------------|
+| <img src="https://github.com/user-attachments/assets/156cdede-c904-477c-b725-b4c24462175e" alt="트립테일러_여행정보등록" width="300"> |
+
 
 <br>
 
@@ -146,7 +149,7 @@
 
 | 여행 계획 |
 |----------|
-<!-- |![travle plan page]()| -->
+| <img src="https://github.com/user-attachments/assets/d4c9639c-952e-4b7c-ba82-261187f97d9d" alt="트립테일러_여행일정생성" width="300"> |
 
 <br>
 
@@ -167,7 +170,8 @@
 
 | 커뮤니티 |
 |----------|
-<!-- |![community page]()| -->
+| <img src="https://github.com/user-attachments/assets/bc96d3c5-31fb-4c86-b252-6d8503d95513" alt="트립테일러_커뮤니티티" width="300"> |
+
 
 ---
 ## 🛠 시작하기
