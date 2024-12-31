@@ -125,8 +125,9 @@
 - 계정을 삭제하면 모든 개인 정보와 여행 기록이 삭제됩니다.
 
 | 사용자 등록 |
-|----------|
-![트립테일러_여행정보등록](https://github.com/user-attachments/assets/156cdede-c904-477c-b725-b4c24462175e)
+|-------------|
+| <img src="https://github.com/user-attachments/assets/156cdede-c904-477c-b725-b4c24462175e" alt="트립테일러_여행정보등록" width="300"> |
+
 
 <br>
 
@@ -148,7 +149,7 @@
 
 | 여행 계획 |
 |----------|
-![트립테일러_여행일정생성](https://github.com/user-attachments/assets/d4c9639c-952e-4b7c-ba82-261187f97d9d)
+| <img src="https://github.com/user-attachments/assets/d4c9639c-952e-4b7c-ba82-261187f97d9d" alt="트립테일러_여행일정생성" width="300"> |
 
 <br>
 
@@ -169,7 +170,8 @@
 
 | 커뮤니티 |
 |----------|
-![트립테일러_커뮤니티](https://github.com/user-attachments/assets/bc96d3c5-31fb-4c86-b252-6d8503d95513)
+| <img src="https://github.com/user-attachments/assets/bc96d3c5-31fb-4c86-b252-6d8503d95513" alt="트립테일러_커뮤니티티" width="300"> |
+
 
 ---
 ## 🛠 시작하기
